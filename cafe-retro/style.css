@@ -114,8 +114,21 @@ header {
         background-color: rgb(181, 3, 3); 
         color: white; 
         position: relative;
-        top: -120px;
+        top: -200px;
+        left: 230px;
         
+}
+
+.info-box2 {
+
+    width: 600px; 
+    height: 50px; 
+    background-color: rgb(181, 3, 3); 
+    color: white; 
+    position: relative;
+    top: -190px;
+    left: 300px;
+    
 }
 
 

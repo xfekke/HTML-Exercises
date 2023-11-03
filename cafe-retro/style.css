@@ -3,7 +3,12 @@ section {
 }
 
 #hot {
-    background-color: redg;
+    background-color: red ;
+     
+        background-image: url(https://pvt23-kyh.lms.nodehill.se/wp-content/uploads/2018/09/hot.jpg);
+        background-size: cover;
+        background-position: 50% 50%;
+
 
 }
 
@@ -15,4 +20,13 @@ section {
 #cosy {
     background-color: blue;
     
+}
+
+header {
+    text-align: center;
+}
+
+.head-border {
+    border-style: solid;
+    border-color: rgba(89, 20, 20, 0.325);
 }
